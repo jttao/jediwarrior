@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>boss_yuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {198, 56}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {198, 56}}</string>
+			<key>sourceSize</key>
+			<string>{198, 56}</string>
+		</dict>
+		<key>efx_bossborn_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 153}, {8, 79}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {8, 79}}</string>
+			<key>sourceSize</key>
+			<string>{8, 79}</string>
+		</dict>
+		<key>efx_bossborn_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{329, 160}, {44, 31}}</string>
+			<key>offset</key>
+			<string>{7, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{57, 47}, {44, 31}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 269}, {83, 50}}</string>
+			<key>offset</key>
+			<string>{9, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{40, 31}, {83, 50}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{784, 212}, {113, 79}}</string>
+			<key>offset</key>
+			<string>{6, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 2}, {113, 79}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{942, 1}, {127, 81}}</string>
+			<key>offset</key>
+			<string>{5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {127, 81}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{811, 1}, {129, 81}}</string>
+			<key>offset</key>
+			<string>{6, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 0}, {129, 81}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{520, 83}, {143, 82}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {143, 82}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{520, 1}, {144, 80}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {144, 80}}</string>
+			<key>sourceSize</key>
+			<string>{144, 82}</string>
+		</dict>
+		<key>efx_bossborn_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{899, 273}, {96, 96}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {96, 96}}</string>
+			<key>sourceSize</key>
+			<string>{96, 96}</string>
+		</dict>
+		<key>efx_bossborn_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 139}, {117, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 116}}</string>
+			<key>sourceSize</key>
+			<string>{117, 116}</string>
+		</dict>
+		<key>efx_bossdead2_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{940, 130}, {91, 83}}</string>
+			<key>offset</key>
+			<string>{12, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{55, 59}, {91, 83}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{201, 1}, {157, 163}}</string>
+			<key>offset</key>
+			<string>{3, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13, 6}, {157, 163}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 59}, {150, 161}}</string>
+			<key>offset</key>
+			<string>{5, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 11}, {150, 161}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 211}, {155, 143}}</string>
+			<key>offset</key>
+			<string>{2, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{13, 14}, {155, 143}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{366, 1}, {150, 152}}</string>
+			<key>offset</key>
+			<string>{4, 7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17, 7}, {150, 152}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{666, 1}, {143, 136}}</string>
+			<key>offset</key>
+			<string>{8, -7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 29}, {143, 136}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{366, 153}, {129, 126}}</string>
+			<key>offset</key>
+			<string>{14, -6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 33}, {129, 126}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 160}, {129, 126}}</string>
+			<key>offset</key>
+			<string>{14, -6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 33}, {129, 126}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead2_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{811, 84}, {127, 126}}</string>
+			<key>offset</key>
+			<string>{15, -6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{40, 33}, {127, 126}}</string>
+			<key>sourceSize</key>
+			<string>{176, 180}</string>
+		</dict>
+		<key>efx_bossdead_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{158, 247}, {74, 36}}</string>
+			<key>offset</key>
+			<string>{-17, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 8}, {74, 36}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{596, 252}, {62, 41}}</string>
+			<key>offset</key>
+			<string>{24, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{57, 13}, {62, 41}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{582, 295}, {62, 41}}</string>
+			<key>offset</key>
+			<string>{24, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{57, 13}, {62, 41}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{164, 153}, {92, 32}}</string>
+			<key>offset</key>
+			<string>{-13, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 13}, {92, 32}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{164, 59}, {92, 34}}</string>
+			<key>offset</key>
+			<string>{3, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 13}, {92, 34}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{899, 223}, {103, 48}}</string>
+			<key>offset</key>
+			<string>{4, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 11}, {103, 48}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 167}, {96, 48}}</string>
+			<key>offset</key>
+			<string>{8, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{24, 9}, {96, 48}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 217}, {87, 50}}</string>
+			<key>offset</key>
+			<string>{12, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 8}, {87, 50}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 167}, {83, 51}}</string>
+			<key>offset</key>
+			<string>{14, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{37, 6}, {83, 51}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{660, 257}, {83, 48}}</string>
+			<key>offset</key>
+			<string>{14, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{37, 8}, {83, 48}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+		<key>efx_bossdead_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{745, 293}, {62, 41}}</string>
+			<key>offset</key>
+			<string>{24, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{57, 13}, {62, 41}}</string>
+			<key>sourceSize</key>
+			<string>{128, 64}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>efx_boss.png</string>
+	</dict>
+</dict>
+</plist>

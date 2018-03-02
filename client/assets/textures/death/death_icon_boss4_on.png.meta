@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7de98290-26ad-4c02-b545-a57443f2a7cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "death_icon_boss4_on": {
+      "ver": "1.0.3",
+      "uuid": "979a6a1e-e134-4b97-9007-b12034731b56",
+      "rawTextureUuid": "7de98290-26ad-4c02-b545-a57443f2a7cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 40,
+      "height": 43,
+      "rawWidth": 43,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
