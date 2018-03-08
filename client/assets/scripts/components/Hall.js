@@ -1,10 +1,8 @@
 var Net = require("Net")
 var Global = require("Global")
 cc.Class({
-    extends: cc.Component,
-
-    properties: {  
-        
+    extends: cc.Component, 
+    properties: {   
     }, 
     initNetHandlers:function(){
         var self = this;
@@ -49,10 +47,12 @@ cc.Class({
         else if(event.target.name == "button_rate"){ 
         }
         else if(event.target.name == "button_shop"){   
-            this.panelShop.active = true;
+            if(this.panelShop){
+                this.panelShop.active = true; 
+            }
         }
     },  
-
+    
     // called every frame, uncomment this function to activate update callback
     update: function (dt) {
        

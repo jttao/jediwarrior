@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "0ecf3a12-7338-422a-8066-2a6a0f618991",
+  "uuid": "e2cf3a97-9522-4ec5-b0a5-a14f78605c1f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
-    "ad_veewo_quit": {
+    "pause": {
       "ver": "1.0.3",
-      "uuid": "0622a6b8-1215-4155-8165-22cc614cb59c",
-      "rawTextureUuid": "0ecf3a12-7338-422a-8066-2a6a0f618991",
+      "uuid": "3abfa047-c2f0-45d0-a76f-fa6f1eaecc1c",
+      "rawTextureUuid": "e2cf3a97-9522-4ec5-b0a5-a14f78605c1f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -16,10 +16,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 1136,
-      "height": 768,
-      "rawWidth": 1136,
-      "rawHeight": 768,
+      "width": 300,
+      "height": 168,
+      "rawWidth": 300,
+      "rawHeight": 168,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
